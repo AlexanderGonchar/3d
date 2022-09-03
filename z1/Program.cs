@@ -7,3 +7,4 @@ for (int i = 1; i <= nn; i++)
 
 }
 Console.WriteLine($"Это кубы чисел от 1 до {nn}");
+
