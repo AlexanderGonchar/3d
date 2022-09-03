@@ -22,3 +22,4 @@ for (int i = 0; i < array.Length; i++)
 
 Console.WriteLine($"Сумма положительных элементов массива равна = {sumPlus}");
 Console.WriteLine($"Сумма отрицательных элементов массива равна = {sumMinus}");
+
